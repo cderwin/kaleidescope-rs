@@ -1,0 +1,8 @@
+[package]
+name = "kaleidescope-rs"
+version = "0.1.0"
+authors = ["Cameron Derwin <camderwin@gmail.com>"]
+
+[dependencies]
+getopts = "0.2.4"
+rustc-serialize = "0.3"
